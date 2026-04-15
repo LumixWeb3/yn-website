@@ -146,7 +146,7 @@ export default function App() {
             {/* Dexscreener Embed */}
             <div className="relative w-full pb-[125%] xl:pb-[65%]">
               <iframe 
-                src="https://dexscreener.com/solana/DisTFmuqW8E4WWpaDqfZAvUTzt9BVYmsvTHrFDaVBabX?embed=1&loadChartSettings=0&trades=0&tabs=0&info=0&chartLeftToolbar=0&chartTheme=dark&theme=dark&chartStyle=0&chartType=usd&interval=15"
+                src="https://dexscreener.com/solana/9rPoaV7XE1uCYYGrFmzEX8Fa8kEVP3xDsdwypC5qpump?embed=1&loadChartSettings=0&trades=0&tabs=0&info=0&chartLeftToolbar=0&chartTheme=dark&theme=dark&chartStyle=0&chartType=usd&interval=15"
                 className="absolute top-0 left-0 w-full h-full border-0"
                 title="YN Chart"
               ></iframe>
